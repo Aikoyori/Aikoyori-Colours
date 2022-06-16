@@ -3,6 +3,7 @@
     "displayName": "Aikoyori Colours",
     "description": "My custom color scheme for VS Code",
     "version": "1.0.0",
+    "publisher": "Aikoyori",
     "repository": {
         "type": "git",
         "url": "https://github.com/Aikoyori/Aikoyori-Colours.git"
@@ -23,6 +24,7 @@
             }
         ]
     },
+    "icon":"assets/icon.png",
     "devDependencies": {
         "esbuild": "^0.14.44",
         "webpack": "^5.73.0",

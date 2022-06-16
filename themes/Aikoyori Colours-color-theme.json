@@ -72,7 +72,7 @@
 		"progressBar.background": "#ff2e5b",
 		"scrollbar.shadow": "#330d18",
 		"scrollbarSlider.activeBackground": "#f85f85b4",
-		"scrollbarSlider.background": "#852e6f4f",
+		"scrollbarSlider.background": "#a53f5556",
 		"scrollbarSlider.hoverBackground": "#a0527fb4",
 		"sideBar.background": "#0f0524",
 		"sideBarSectionHeader.background": "#0f0524",
@@ -81,7 +81,7 @@
 		"statusBar.foreground": "#7984d1",
 		"statusBar.noFolderBackground": "#661752",
 		"statusBar.noFolderForeground": "#ffffff",
-		"tab.activeBackground": "#35173d",
+		"tab.activeBackground": "#3b0f4d",
 		"tab.activeForeground": "#f2f3f7",
 		"tab.border": "#0f0524",
 		"tab.inactiveBackground": "#0f0524",
@@ -138,7 +138,7 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#6A9955"
+				"foreground": "#834763"
 			}
 		},
 		{

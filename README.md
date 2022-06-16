@@ -1,2 +1,2 @@
 # Aikoyori Colours
-MY VS CODE COLOURS IS THAT SELF-EXPLANATORY
+My Color Scheme themed to be pink. I don't know what else to say.
